@@ -1,0 +1,35 @@
+#home, #cabecalho{
+    background: #9b072e;
+    color: #fff;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e4d4d4;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #d6d0d0;
+}
+
+footer p a{
+    margin: 5px 15px;
+}
+
+.acessibilidade{
+    background-color: #0d4372;
+    color: #fff;
+}
+
+.fonte-referencia p{
+    text-align: end; 
+    font-size: xx-small;
+}
+
+.fonte-referencia a{
+    color: #fff;
+}
