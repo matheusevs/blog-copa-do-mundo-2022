@@ -5,7 +5,6 @@
 
 .caixa{
     padding: 60px 0;
-    border-bottom: 1px solid #e4d4d4;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -32,4 +31,38 @@ footer p a{
 
 .fonte-referencia a{
     color: #fff;
+}
+
+.column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+.column1{
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+.column2{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 250px;
+}
+
+.column3{
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 250px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
