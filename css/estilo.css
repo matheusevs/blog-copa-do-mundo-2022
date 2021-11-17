@@ -66,3 +66,15 @@ footer p a{
     display: table;
     clear: both;
 }
+
+.carousel-item h1{
+    text-align: center;
+}
+
+.carousel-control-prev{
+    padding-right: 200px;
+}
+
+.carousel-control-next{
+    padding-left: 200px;
+}
