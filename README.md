@@ -6,3 +6,5 @@ Este site contém informações como as equipes que vão participar do torneio, 
 
 Este projeto foi desenvolvido por Augusto César, João Paulo Vaz, Luiz Fernando Borges, Mateus Corrêa e Matheus Eduardo.
 
+
+<img src="gif.gif">
